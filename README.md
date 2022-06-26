@@ -1,12 +1,12 @@
-#Sobre o projeto
+# Sobre o projeto
 Esse projeto foi desenvolvido com o intuito de aprimorar os conhecimentos em reactjs, por sinal deu certo, cada dia estou aprendendo cada vez mais
 O projeto foi feito em conjunto com a nova trilha atulizada de reactjs da plataforma Rocketseat
 
-##Inteface do projeto
+## Inteface do projeto
 1° Tela - A interface desse projeto se resume a uma feed onde é possivel fazer comentarios em duas postagens.
 ![Fundamentos](https://user-images.githubusercontent.com/82763928/175834875-c082b04a-e49f-4c74-88e4-774b4267e18e.gif)
 
-##Funcionamento do projeto
+## Funcionamento do projeto
 No projeto é possivel fazer comentarios, exclui-los e também o usuario não pode comentar se não houver texto em nossa textarea
 ![Fundamentos-funcionamento](https://user-images.githubusercontent.com/82763928/175835546-1133318c-9576-44b2-9773-12e986cbcda2.gif)
 
