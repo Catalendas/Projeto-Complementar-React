@@ -5,6 +5,7 @@ interface AvatarProps extends ImgHTMLAttributes<HTMLImageElement> {
     hasBorder?: boolean
 }
 
+// Avatar
 export function Avatar({ hasBorder = true, ...props}: AvatarProps) {
     return(
         <img 
