@@ -19,8 +19,6 @@ As tecnologias utilizadas para a realização desse projeto foram:
 - Java Srcipt
 - Typescript
 
-
-
 Frameworks :
 
 - React Js
